@@ -21,4 +21,3 @@
             BadgeService:AwardBadge(player.UserId, badgeID)
         end
     end
---|End|--
