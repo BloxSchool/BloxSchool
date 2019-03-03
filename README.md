@@ -10,4 +10,6 @@ If you wish to help out, please fork the branch and submit your changes in there
 LuaBlox is designed for small developers on roblox to learn scripting.
 
 # License
-I currently use an GNU Public License, with my full name signed. You may use these works for Personal Use, but not for commercial use. Got it? Okay
+I currently use an GNU Public License. You may use these works for Personal Use, but not for commercial use. Got it? Okay.
+
+
