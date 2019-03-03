@@ -1,10 +1,7 @@
---|BadgeScript|--
-    --|ServiceComms|--
     local Badge = game:GetService('BadgeService')
     local id = 0000000 --Change to badge ID
     --|AwardBadge|--
     local function awardBadge(onPlayerJoin)
-      --|CheckIfOwnBadge|--
         local player = Players.LocalPlayer
          local hasBadge = false
         local success, message = pcall(function()
