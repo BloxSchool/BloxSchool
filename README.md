@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/au0ikp5pkxyoiuib/branch/master?svg=true)](https://ci.appveyor.com/project/Citdx/luablox/branch/master)
+
 # Luablox
 Luablox is a new Roblox tool designed for people with little/no knowledge of coding.
 
