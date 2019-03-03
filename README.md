@@ -7,13 +7,13 @@ Luablox is a new Roblox tool designed for people with little/no knowledge of cod
 If you wish to help out, please fork the branch and submit your changes in there. Then make a pull request to add in the new code.
 
 # How does this work?
-LuaBlox is designed for small developers on roblox to learn scripting.
+LuaBlox is designed for small developers on roblox to learn scripting in Lua. It is currently still in the works and is currently only avaliable in English.
 
 # License
-I currently use an GNU Public License. You may use these works for Personal Use, but not for commercial use. Got it? Okay.
+Luablox currently use an GNU Public License.
 
 # Cloning
 To clone this repository to make changes, please clone the repository
 Here's how
-Type `git clone https://github.com/luablox/luablox.git` into Git Dash to clone the repository to your computer.
-
+Type `git clone https://github.com/luablox/luablox.git` into [Git Dash](https://git-scm.com/downloads) to clone the repository to your computer.
+Or open [GitHub Desktop](desktop.github.com) and clone the repository.
