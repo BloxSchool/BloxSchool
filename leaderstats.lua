@@ -9,10 +9,10 @@ local function onPlayerJoin(player)
  --	Now all we need is an IntValue
 	
  	-- Display an 'IntValue' on leaderboard
-	local gold = Instance.new("IntValue")
-	gold.Name = "Gold" --You may change the name
-	gold.Value = 0 --You may change the value if you want
-	gold.Parent = leaderstats --DO NOT CHANGE THIS! Changing this will ruin the entire code
+	local value = Instance.new("IntValue")
+	value.Name = "Money" --You may change the name
+	value.Value = 0 --You may change the value if you want
+	value.Parent = leaderstats --DO NOT CHANGE THIS! Changing this will ruin the entire code
 end
  
 -- Run 'onPlayerJoin()' when the 'PlayerAdded' event fires
