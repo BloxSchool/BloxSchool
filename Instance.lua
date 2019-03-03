@@ -9,3 +9,13 @@ Instance.new "Accessory" --This adds an accessory which you will then need to me
     Accessory.Name = "BCHardHat"
     Accessory.Parent = 'player'
 --As we can see, we can make Instance.new commands be very useful for working in Roblox Studio.
+Instance.new "Script"
+Script.Name = "Follow"
+Script.Parent = 'Workspace'
+print('Instance.new commands can be really useful for games.')
+alert('Instance.new can make alot of stuff')
+Instance.new "Part"
+Instance.new "SpecialMesh"
+SpecialMesh.Name = "Mesh"
+SpecialMesh.Parent = "Part"
+print('In conclusion, Instance.new commands are really useful for scripting and roblox games.')
