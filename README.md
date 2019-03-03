@@ -12,4 +12,8 @@ LuaBlox is designed for small developers on roblox to learn scripting.
 # License
 I currently use an GNU Public License. You may use these works for Personal Use, but not for commercial use. Got it? Okay.
 
+# Cloning
+To clone this repository to make changes, please clone the repository
+Here's how
+Type 'git clone https://github.com/luablox/luablox.git`
 
