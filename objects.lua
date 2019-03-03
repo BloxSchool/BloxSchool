@@ -1,0 +1,9 @@
+Instance.new "Accessory"
+Instance.new 'Animation'
+Instance.new 'BlockMesh'
+Instance.new 'SpecialMesh'
+Instance.new 'BoolValue'
+Instance.new 'IntValue'
+Instance.new 'Dialog'
+Instance.new 'DialogChoice'
+Instance.new 'Decal'
