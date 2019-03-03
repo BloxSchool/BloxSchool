@@ -15,5 +15,5 @@ I currently use an GNU Public License. You may use these works for Personal Use,
 # Cloning
 To clone this repository to make changes, please clone the repository
 Here's how
-Type `git clone https://github.com/luablox/luablox.git`
+Type `git clone https://github.com/luablox/luablox.git` into Git Dash to clone the repository to your computer.
 
