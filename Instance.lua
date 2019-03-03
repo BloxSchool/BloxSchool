@@ -6,3 +6,6 @@ print('Say I needed a new script?')
 put Instance.new 'Script' into the command line. --Then, you will need to edit the script from Roblox Studio's script editor.
 print('Say I need an Accessory (for Humanoids)? No problem!')
 Instance.new "Accessory" --This adds an accessory which you will then need to mesh.
+    Accessory.Name = "BCHardHat"
+    Accessory.Parent = 'player'
+--As we can see, we can make Instance.new commands be very useful for working in Roblox Studio.
