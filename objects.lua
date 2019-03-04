@@ -45,3 +45,6 @@ Instance.new 'Constraint'
 Instance.new 'Beam'
 Instance.new 'Sky'
 Instance.new 'HumanoidDescription'
+local sound = game:GetService('SoundService')
+local chat = game:GetService('Chat')
+local data = game:GetService('DataStoreService')
