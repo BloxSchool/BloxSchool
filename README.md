@@ -16,4 +16,4 @@ Luablox currently use an GNU Public License.
 To clone this repository to make changes, please clone the repository
 Here's how
 Type `git clone https://github.com/luablox/luablox.git` into [Git Dash](https://git-scm.com/downloads) to clone the repository to your computer.
-Or open [GitHub Desktop](https://desktop.github.com) and clone the repository.
+Or open [GitHub Desktop](https://desktop.github.com) and clone the repository to edit it in your preferred code editing app.
