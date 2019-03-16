@@ -10,7 +10,7 @@ local function onPlayerJoin(player)
 	
  	-- Display an 'IntValue' on leaderboard
 	local value = Instance.new("IntValue")
-	value.Name = "Money" --You may change the name
+	value.Name = "Cash" --You may change the name
 	value.Value = 0 --You may change the value if you want
 	value.Parent = leaderstats --DO NOT CHANGE THIS! Changing this will ruin the entire code
 end
