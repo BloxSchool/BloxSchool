@@ -1,9 +1,9 @@
-    local Badge = game:GetService('BadgeService')
-    local id = 00000000 --Change to badge ID
+  local Badge = game:GetService('BadgeService')
+  local id = 00000000 --Change to badge ID
     
-    local function awardBadge(onPlayerJoin)
-        local player = Players.LocalPlayer
-         local hasBadge = false
+  local function awardBadge(onPlayerJoin)
+    local player = Players.LocalPlayer
+        local hasBadge = false
         local success, message = pcall(function()
             hasBadge = BadgeService:UserHasBadgeAsync(player.UserId,badgeID)
         end)
