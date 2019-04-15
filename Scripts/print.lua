@@ -1,3 +1,5 @@
 print('Print commands are free to edit for your use')
 wait(2)
 print('Make as many print commands as you want')
+wait(2)
+print("Also introducing the warn command! (see warn.lua for info)')
